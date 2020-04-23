@@ -1,8 +1,9 @@
 ---
-name: General secundaria
+name: General
 locale: es
 type: practice
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order: []
