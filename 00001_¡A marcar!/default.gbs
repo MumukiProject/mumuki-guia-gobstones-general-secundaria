@@ -1,0 +1,17 @@
+program {
+  Marcar(destino)
+	Mover(Este)
+	Marcar(restaurante)
+}
+
+procedure Marcar(lugar) {
+  
+}
+
+function destino() {
+  
+}
+
+function restaurante() {
+  
+}
