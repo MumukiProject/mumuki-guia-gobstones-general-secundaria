@@ -1,0 +1,11 @@
+procedure Marcar(lugar) {
+	Poner(lugar)
+}
+
+function destino() {
+	return (Rojo)
+}
+
+function restaurante() {
+	return (Azul)
+}

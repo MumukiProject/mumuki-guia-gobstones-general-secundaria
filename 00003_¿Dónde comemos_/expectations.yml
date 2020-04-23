@@ -1,0 +1,20 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:BuscarRestaurantes
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:hayRestaurante
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:BuscarRestaurantes
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:Marcar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: BuscarRestaurantes
+  inspection: Uses:hayRestaurante
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: BuscarRestaurantes
+  inspection: UsesIf
