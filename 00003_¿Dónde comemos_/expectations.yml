@@ -22,5 +22,5 @@ expectations:
   binding: Intransitive:program
   inspection: Not:Uses:hayRestaurante
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Marcar
+  binding: "*"
   inspection: Uses:restaurante
