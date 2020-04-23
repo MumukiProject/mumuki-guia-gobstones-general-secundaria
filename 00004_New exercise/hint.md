@@ -1,0 +1,1 @@
+Recordá que podés usar el procedimiento `Recorrer` con los parámetros kilómetros y dirección para moverte por el tablero. Y prestá atención en donde está ubicado el cabezal inicialmente.

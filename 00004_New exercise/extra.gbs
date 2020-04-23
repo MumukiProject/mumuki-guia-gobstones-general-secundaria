@@ -1,0 +1,5 @@
+procedure Recorrer(kilometros, direccion) {
+	repeat (kilometros) {
+		Mover(direccion)
+	}
+}

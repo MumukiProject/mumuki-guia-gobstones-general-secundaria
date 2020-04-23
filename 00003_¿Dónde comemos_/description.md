@@ -1,7 +1,5 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-general-secundaria/master/assets/attires/config_1587670844103.json"></gs-attire>
 
-
-
 Como son muchos destinos y distancias largas entre ellos, Juani y su familia van a tener que hacer paradas para comer :fork_and_knife:. ¡Busquemos restaurantes!
 
 <gs-board>
